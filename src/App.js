@@ -4,6 +4,7 @@ import Formulario from './components/Formulario';
 import Listado from './components/Listado';
 import Pregunta from './components/Pregunta';
 
+// Esta es la funcion principal
 function App() {
 
   const [presupuesto, guardarPresupuesto] = useState(0);
